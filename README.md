@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Alex! 
+
+I’m currently working on codecademy's full stack developer course.  
+  
+:computer: Coder, Engineer, Maker. 
+
+![](https://i.imgur.com/yemc74t.gif)
 <!--
 **alexwojtak/alexwojtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
