@@ -2,7 +2,9 @@
 
 I'm Alex! 
 
-I’m currently working on codecademy's full stack developer course.  
+I’m a full stack developer, recently having completed Codecademy courses in Full Stack Development, Python, PHP, jQuery, C# and Java.
+  
+Passed Microsoft certification - Microsoft Technology Associate: Introduction to Programming Using HTML and CSS
   
 :computer: Coder, Engineer, Maker. 
 
